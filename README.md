@@ -27,7 +27,7 @@ map markers rendered from Compose into `ImageProvider`, and five Gradle conventi
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/alexandr-ryabchikov-5a79b1123) · alexasp3@gmail.com
+[LinkedIn](https://www.linkedin.com/in/alexandr-ryabchikov-android) · alexasp3@gmail.com
 
 Open to remote contract roles. Armenian residency and an active Deel profile — I can be onboarded
 as a contractor without new entity setup.
